@@ -143,3 +143,7 @@ footer {
     margin-right: 0;
     margin-bottom: 10px;
   }
+
+  main article {
+    padding: 25px 17px;
+  }

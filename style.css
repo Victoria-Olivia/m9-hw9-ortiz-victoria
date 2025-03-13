@@ -137,5 +137,10 @@ footer {
     flex-direction: column;
     align-items: center;
 
-  }  
+  }
+
+nav > a.logo {
+  flex-direction: column;
+  margin-right: 0;
+  margin-bottom: 10px;
 }

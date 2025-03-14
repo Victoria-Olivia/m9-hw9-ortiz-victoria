@@ -50,7 +50,7 @@ header a {
 
 main a {
   color: var(--danger-color);
-  text-shadow: var(--white) 0px 0px 10px, var(--white) 0px 0px 20px, var(--gray) 2px 2px 2px;
+  text-decoration: underline;
 }
 
 main > article, nav{

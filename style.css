@@ -50,6 +50,7 @@ header a {
 
 main a {
   color: var(--danger-color);
+  text-decoration: underline;
 }
 
 main > article, nav{

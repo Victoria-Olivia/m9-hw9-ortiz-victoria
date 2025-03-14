@@ -159,5 +159,8 @@ footer {
     display: block;
     float: none;
     max-width: 200px;
+  }
 
+  main > section, main > article {
+    margin-bottom: 25px;
   }

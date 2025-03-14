@@ -116,7 +116,7 @@ main p {
 }
 
 main > article img {
-  float: left;
+  float: none;
   width: 300px;
   height: auto;
   margin-right: 24px;
@@ -146,6 +146,7 @@ footer {
 
   main article {
     padding: 25px 17px;
+    text-align: center;
   }
 
   section.hero > .call-to-action {
@@ -155,10 +156,10 @@ footer {
 
   main > article img {
     width: 100%;
-    margin: 0, 24px;
+    margin: auto auto;
     display: block;
     float: none;
-    max-width: 200px;
+    max-width: 300px;
   }
 
   main > section, main > article {

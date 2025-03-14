@@ -4,7 +4,7 @@
   --text-color-lighter: #074c50;
   --secondary-color: #F78828;
   --warn-color: #FDD219;
-  --danger-color: #9b0000;
+  --danger-color: #e00000;
   --white: #FFFFFF;
   --off-white: #F1F2F4;
   --gray: #303030;
@@ -50,7 +50,6 @@ header a {
 
 main a {
   color: var(--danger-color);
-  text-decoration: underline;
 }
 
 main > article, nav{
